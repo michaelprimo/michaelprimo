@@ -1,6 +1,6 @@
 ### Hello everyone!
 
-I am Michael Primo, I am 25 years old and I like programming, making music and mathematics, other than games, puzzles and Chess.
+I am Michael Primo, I am 28 years old and I like programming, making music and mathematics, other than games, puzzles and Chess.
 
 Actually I am studying Javascript for making a better frontend for websites, games and animations.
 
